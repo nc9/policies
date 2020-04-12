@@ -61,7 +61,7 @@ As part of the services we provide, and only to the extent necessary, we may use
 
 Subprocessors located in Australia and the United States:
 * [Amazon Web Services](https://aws.amazon.com/) — cloud services provider
-* [Google Analytics](https://analytics.google.com) — analytics service provide
+* [Google Analytics](https://analytics.google.com) — analytics service provider
 * [Sentry](https://www.sentry.io/) — error reporting service software
 
 ## Security & Encryption
