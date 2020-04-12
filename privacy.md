@@ -1,10 +1,11 @@
 # Beat COVID-19 Now Privacy Policy
 
-The privacy of your data is of utmost importance to us and we have taken numerous conscious decisions to guarantee that your data is handled carefully and kept as anonymous as possible. We do not collect any personally identifiable information (PII) nor do we have any interest to. Our research relies on aggregated and anonymized data that we collect from the survey forms.
+The privacy of your data is of utmost importance to us and we have taken numerous conscious decisions to guarantee that your data is handled carefully and kept as anonymous as possible. We do not collect any personally identifiable information (PII) nor do we have any requirement to for our purposes. Our research relies on aggregated and anonymized data that we collect from the survey forms.
 
 ## Terms
 
 * For the purpose of this document, _website_ refers to the Beat COVID-19 website at https://beatcovid19now.org and _app_ refers to the apps available on the Apple Store and Google Play Stores for iOS and Android Devices
+* _The Symptom Tracker_ is the results page of the survey within the website and apps that provides the user with a view of their symptoms over multiple surveys.
 * _Token_ - the token is a unique cryptographic identifier that uniquely identifies you as a visitor to our website and apps and is used to associate your multiple survey completions
 
 ## Who developed this app?
@@ -13,7 +14,19 @@ This app is part of the Beat COVID-19 NOW research led by researchers at the [Ce
 
 ## Purpose
 
-The purpose of the Beat COVID-19 application is to collect anonymous symptom and spread data and provide crucial health data to researchers, government and other parties anonymously for the purpose of analyzing the spread of the virus and disease
+This Symptom Tracker collects information for research purposes. Any advice or findings are general only and not a substitute for medical advice. If concerned, please close the Symptom Tracker and contact your local health authority or practitioner.
+
+# No diagnosis or medical advice
+
+The Symptom Tracker does not diagnose COVID-19 and it does not provide medical advice. Please seek urgent medical help if you have difficulty breathing. Contact your relevant local health authority or medical practitioner for health advice about COVID-19 and to find out what to do if you think you have symptoms.
+
+## Anonymity
+
+This application associates any information you provide with a unique, anonymous identifier to ensure that multiple responses from the same person can be easily matched and progress can be tracked over time.
+
+All data is transferred over encrypted channels and and stored on secure servers.
+
+Data collected is available to qualified researchers for authorised purposes.
 
 ## What Data We Collect
 
@@ -36,10 +49,9 @@ The purpose of the Beat COVID-19 application is to collect anonymous symptom and
 
 * To remove the token you can clear the cookies in your browser or uninstall the app on your device(s). We will be unable to associate you with your completed survey form and provided data unless you explicitly set the token again.
 
-## Processors we use
+## Subprocessors we use
 
-As part of the services we provide, and only to the extent necessary, we may use certain third-party processors to process some or all of your personal information. These subprocessors include cloud computing providers, data analysis tools and error monitoring services.
-
+As part of the services we provide, and only to the extent necessary, we may use certain third-party subprocessors to process some or all of your personal information. These subprocessors include cloud computing providers, data analysis tools and error monitoring services.
 
 Subprocessors located in Australia and the United States:
 * [Amazon Web Services](https://aws.amazon.com//). Cloud services provider.
