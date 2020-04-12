@@ -1,6 +1,6 @@
 # Beat COVID-19 Now Privacy Policy
 
-The privacy of your data is of upmost importance to us and we have taken numerous conscious decisions to guarantee that your data is handled carefully and kept as anonymous as possible. We do not collect any personally identifiable information (PII) nor do we have any interest to. Our research relies on aggreagte and anonymized data that we collect from the survey forms.
+The privacy of your data is of upmost importance to us and we have taken numerous conscious decisions to guarantee that your data is handled carefully and kept as anonymous as possible. We do not collect any personally identifiable information (PII) nor do we have any interest to. Our research relies on aggregate and anonymized data that we collect from the survey forms.
 
 ## Terms
 
@@ -10,7 +10,7 @@ The privacy of your data is of upmost importance to us and we have taken numerou
 
 ## Purpose
 
-The purpose of the Beat COVID-19 application is to provide crucial health data to researchers, government and other parties anonymously for the purpose of analyzing the spread of the virus and disease
+The purpose of the Beat COVID-19 application is to collect anonymous symptom and spread data and provide crucial health data to researchers, government and other parties anonymously for the purpose of analyzing the spread of the virus and disease
 
 ## What Data We Collect
 
@@ -54,4 +54,6 @@ This website and apps are operated from Australia. If you are located in the Eur
 ## Contact
 
 If you have questions about this privacy policy, how the data is collected and handled, or exercising your rights, please contact us at [email](mailto:email).
+
+
 
