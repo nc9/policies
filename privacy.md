@@ -5,8 +5,11 @@ The privacy of your data is of utmost importance to us and we have taken numerou
 ## Terms
 
 * For the purpose of this document, _website_ refers to the Beat COVID-19 website at https://beatcovid19now.org and _app_ refers to the apps available on the Apple Store and Google Play Stores for iOS and Android Devices
-* Beat COVID-19 Now is an organization born out of a development program within Swinburne University of Melbourne, Australia comprised of researchers, staff, and volunteers who have all agreed to legal non-disclosure agreements.
 * _Token_ - the token is a unique cryptographic identifier that uniquely identifies you as a visitor to our website and apps and is used to associate your multiple survey completions
+
+## Who developed this app?
+
+This app is part of the Beat COVID-19 NOW research led by researchers at the [Centre for Global Health and Equity](https://www.swinburne.edu.au/research/global-health-equity/) with help from data scientists at [Swinburne University of Technology](https://www.swinburne.edu.au/) in partnership with [Arq Group, Australia](https://arq.group/), the COVID-19 Hackathon and marketing volunteers.
 
 ## Purpose
 
