@@ -4,7 +4,7 @@ Last Updated: 12th April 2020
 
 This policy is available online at [https://beatcovid19now.org/privacy](beatcovid19now.org/privacy)
 
-The privacy of your data is of utmost importance to us and we have taken numerous conscious decisions to guarantee that your data is handled carefully and kept as anonymous as possible. We do not collect any personally identifiable information (PII) nor do we have any requirement to for our purposes. Our research relies on aggregated and anonymized data that we collect from the survey forms.
+The privacy of your data is of utmost importance to us and we have taken numerous conscious decisions to guarantee that your data is handled carefully and kept as anonymous as possible. We do not collect any personally identifiable information (PII) nor do we have any requirement to for our purposes. Our research relies on aggregated and anonymised data that we collect from the survey forms.
 
 ## Terms
 
@@ -44,8 +44,8 @@ Data collected is available to qualified researchers for authorised purposes.
 
 ## Who We Share Data With
 
-* The data is shared in aggregate and anonymized form with researchers and organizations approved by Swinburne University and the #BeatCovid19Now organization for the purpose of research.
-* Any Researcher or Organization that is granted access to the dataset agrees to and are bound by this privacy policy and the ethical standards of Swinburne University.
+* The data is shared in aggregate and anonymised form with researchers and organisations approved by Swinburne University and the #BeatCovid19Now organisation for the purpose of research.
+* Any Researcher or Organisation that is granted access to the dataset agrees to and are bound by this privacy policy and the ethical standards of Swinburne University.
 * We share data with the subprocessors listed in this document, including cloud computing hosting providers, analytics services and error monitoring services.
 * We will never share your data with any other party unless explicitly stated in this document.
 
@@ -53,7 +53,7 @@ Data collected is available to qualified researchers for authorised purposes.
 
 * To remove the token you can clear the cookies in your browser or uninstall the app on your device(s). We will be unable to associate you with your completed survey form and provided data unless you explicitly set the token again.
 * As we are unable to associate a survey result with your personal identity we are unable to delete data based on a request that is emailed.
-* Data will be retained in anonymized and aggregate form up until a time it serves a research purpose.
+* Data will be retained in anonymised and aggregate form up until a time it serves a research purpose.
 
 ## Subprocessors we use
 
