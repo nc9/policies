@@ -40,27 +40,29 @@ Data collected is available to qualified researchers for authorised purposes.
 
 ## Who We Share Data With
 
-* The data is shared in aggregate and anonymized form with researchers and organizations approved by Swinburn University and the Beat COVID-19 Now organization for the purpose of researching the spread of the epidemic
-* Any Researcher or Organization that is granted access to the dataset agrees to abide by this privacy policy and our own terms
+* The data is shared in aggregate and anonymized form with researchers and organizations approved by Swinburn University and the Beat COVID-19 Now organization for the purpose of research.
+* Any Researcher or Organization that is granted access to the dataset agrees to and are bound by this privacy policy and the ethical standards of Swinburne University.
 * We share data with the subprocessors listed in this document, including cloud computing hosting providers, analytics services and error monitoring services.
 * We will never share your data with any other party unless explicitly stated in this document.
 
 ## Deleting Data
 
 * To remove the token you can clear the cookies in your browser or uninstall the app on your device(s). We will be unable to associate you with your completed survey form and provided data unless you explicitly set the token again.
+* As we are unable to associate a survey result with your personal identity we are unable to delete data based on a request that is emailed.
+* Data will be retained in anonymized and aggregate form up until a time it serves a research purpose.
 
 ## Subprocessors we use
 
 As part of the services we provide, and only to the extent necessary, we may use certain third-party subprocessors to process some or all of your personal information. These subprocessors include cloud computing providers, data analysis tools and error monitoring services.
 
 Subprocessors located in Australia and the United States:
-* [Amazon Web Services](https://aws.amazon.com//). Cloud services provider.
+* [Amazon Web Services](https://aws.amazon.com/). Cloud services provider.
 * [Google Analytics](https://analytics.google.com). Analytics provider.
 * [Sentry](https://www.sentry.io/). Error reporting software.
 
 ## Security & Encryption
 
-All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest.
+All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you access the survey of Symptom Tracker), but we go to great lengths to secure your data at rest.
 
 ## Location of Site and Data
 
