@@ -68,7 +68,7 @@ This website and apps are operated from Australia. If you are located in the Eur
 
 Ethics
 
-This project has been approved by or on behalf of Swinburne’s Human Research Ethics Committee (SUHREC) in line with the National Statement on Ethical Conduct in Human Research. If you have any concerns or complaints about the conduct of this project (reference: 20202892-4014), you may contact us at the details below.
+This project has been approved by or on behalf of Swinburne’s Human Research Ethics Committee (SUHREC) in line with the National Statement on Ethical Conduct in Human Research. If you have any concerns or complaints about the conduct of this project (reference: `20202892-4014`), you may contact us at the details below.
 
 
 ## Contact
