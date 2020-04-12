@@ -66,7 +66,7 @@ All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Laye
 
 This website and apps are operated from Australia. If you are located in the European Union or elsewhere outside of Australia please be aware that any information you provide to us will be transferred to Australia. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
-Ethics
+## Ethics
 
 This project has been approved by or on behalf of Swinburne’s Human Research Ethics Committee (SUHREC) in line with the National Statement on Ethical Conduct in Human Research. If you have any concerns or complaints about the conduct of this project (reference: `20202892-4014`), you may contact us at the details below.
 
