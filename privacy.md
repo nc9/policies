@@ -1,5 +1,9 @@
 # #BeatCovid19Now Privacy Policy
 
+Last Updated: 12th April 2020
+
+This policy is available online at [https://beatcovid19now.org/privacy](beatcovid19now.org/privacy)
+
 The privacy of your data is of utmost importance to us and we have taken numerous conscious decisions to guarantee that your data is handled carefully and kept as anonymous as possible. We do not collect any personally identifiable information (PII) nor do we have any requirement to for our purposes. Our research relies on aggregated and anonymized data that we collect from the survey forms.
 
 ## Terms
