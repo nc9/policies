@@ -1,4 +1,4 @@
-# \#BeatCovid19Now Privacy Policy
+## \#BeatCovid19Now Privacy Policy
 
 Last Updated: 12 April 2020
 
