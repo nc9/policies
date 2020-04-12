@@ -1,4 +1,4 @@
-# Beat COVID-19 Now Privacy Policy
+# #BeatCovid19Now Privacy Policy
 
 The privacy of your data is of utmost importance to us and we have taken numerous conscious decisions to guarantee that your data is handled carefully and kept as anonymous as possible. We do not collect any personally identifiable information (PII) nor do we have any requirement to for our purposes. Our research relies on aggregated and anonymized data that we collect from the survey forms.
 
@@ -10,7 +10,7 @@ The privacy of your data is of utmost importance to us and we have taken numerou
 
 ## Who developed this app?
 
-This app is part of the Beat COVID-19 NOW research led by researchers at the [Centre for Global Health and Equity](https://www.swinburne.edu.au/research/global-health-equity/) with help from data scientists at [Swinburne University of Technology](https://www.swinburne.edu.au/) in partnership with [Arq Group, Australia](https://arq.group/), the COVID-19 Hackathon and marketing volunteers.
+This app is part of the #BeatCovid19Now research led by researchers at the [Centre for Global Health and Equity](https://www.swinburne.edu.au/research/global-health-equity/) with help from data scientists at [Swinburne University of Technology](https://www.swinburne.edu.au/) in partnership with [Arq Group, Australia](https://arq.group/), the COVID-19 Hackathon and marketing volunteers.
 
 ## Purpose
 
@@ -40,7 +40,7 @@ Data collected is available to qualified researchers for authorised purposes.
 
 ## Who We Share Data With
 
-* The data is shared in aggregate and anonymized form with researchers and organizations approved by Swinburn University and the Beat COVID-19 Now organization for the purpose of research.
+* The data is shared in aggregate and anonymized form with researchers and organizations approved by Swinburn University and the #BeatCovid19Now organization for the purpose of research.
 * Any Researcher or Organization that is granted access to the dataset agrees to and are bound by this privacy policy and the ethical standards of Swinburne University.
 * We share data with the subprocessors listed in this document, including cloud computing hosting providers, analytics services and error monitoring services.
 * We will never share your data with any other party unless explicitly stated in this document.
