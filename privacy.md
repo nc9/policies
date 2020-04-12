@@ -44,7 +44,7 @@ Data collected is available to qualified researchers for authorised purposes.
 
 ## Who We Share Data With
 
-* The data is shared in aggregate and anonymized form with researchers and organizations approved by Swinburn University and the #BeatCovid19Now organization for the purpose of research.
+* The data is shared in aggregate and anonymized form with researchers and organizations approved by Swinburne University and the #BeatCovid19Now organization for the purpose of research.
 * Any Researcher or Organization that is granted access to the dataset agrees to and are bound by this privacy policy and the ethical standards of Swinburne University.
 * We share data with the subprocessors listed in this document, including cloud computing hosting providers, analytics services and error monitoring services.
 * We will never share your data with any other party unless explicitly stated in this document.
