@@ -24,6 +24,9 @@ This Symptom Tracker collects information for research purposes. Any advice or f
 
 **The Symptom Tracker does not diagnose COVID-19 and it does not provide medical advice. Please seek urgent medical help if you have difficulty breathing. Contact your relevant local health authority or medical practitioner for health advice about COVID-19 and to find out what to do if you think you have symptoms.**
 
+## Flu-iiQ
+Influenza intensity and impact questionnaire (Flu-iiQ)™ ©RH Osborne (2006). No part of the Flu-iiQ™ may be copied or reproduced in any form without written permission from the author. Used under license to Swinburne University of Technology.
+
 ## Anonymity
 
 This application associates any information you provide with a unique, anonymous identifier to ensure that multiple responses from the same person can be easily matched and progress can be tracked over time.
@@ -83,10 +86,10 @@ If you have questions about this privacy policy, how the data is collected and h
 
 ### By Mail
 
-&nbsp;&nbsp;&nbsp;&nbsp;Research Ethics Officer, Swinburne Research (H68)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Swinburne University of Technology<br>
-&nbsp;&nbsp;&nbsp;&nbsp;PO Box 218<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Hawthorn VIC 3122 Australia
+Research Ethics Officer, Swinburne Research (H68)<br>
+Swinburne University of Technology<br>
+PO Box 218<br>
+Hawthorn VIC 3122 Australia
 
 ### By Phone
 
