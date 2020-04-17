@@ -86,9 +86,9 @@ If you have questions about this privacy policy, how the data is collected and h
 
 ### By Mail
 
-Research Ethics Officer, Swinburne Research (H68)<br>
-Swinburne University of Technology<br>
-PO Box 218<br>
+Research Ethics Officer, Swinburne Research (H68)     
+Swinburne University of Technology   
+PO Box 218   
 Hawthorn VIC 3122 Australia
 
 ### By Phone
