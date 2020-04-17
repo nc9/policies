@@ -10,7 +10,7 @@ The privacy of your data is of utmost importance to us and we have taken numerou
 
 * For the purpose of this document, _website_ refers to the website at https://beatcovid19now.org and _app_ refers to the apps available on the Apple Store and Google Play Stores for iOS and Android Devices.
 * _The Symptom Tracker_ is the results page of the survey within the website and apps that provides the user with a view of their symptoms over multiple surveys.
-* The _Token_ is a unique cryptographic identifier that uniquely identifies you as a visitor to our website and apps and is used to associate your multiple survey completions across visits or app opens. The Symptom Tracker is unable to function without a unique token identifying you and we use this in lieu of collecting an emaill address or any other account identifier.
+* The _Token_ is a unique cryptographic identifier that uniquely identifies you as a visitor to our website and apps and is used to associate your multiple survey completions across visits or app opens. The Symptom Tracker is unable to function without a unique token identifying you and we use this in lieu of collecting an email address or any other account identifier.
 
 ## Who developed this app?
 
@@ -24,8 +24,8 @@ This Symptom Tracker collects information for research purposes. Any advice or f
 
 **The Symptom Tracker does not diagnose COVID-19 and it does not provide medical advice. Please seek urgent medical help if you have difficulty breathing. Contact your relevant local health authority or medical practitioner for health advice about COVID-19 and to find out what to do if you think you have symptoms.**
 
-## Flu-iiQ
-Influenza intensity and impact questionnaire (Flu-iiQ)™ ©RH Osborne (2006). No part of the Flu-iiQ™ may be copied or reproduced in any form without written permission from the author. Used under license to Swinburne University of Technology.
+## flu-iiQ™
+Influenza intensity and impact questionnaire (Flu-iiQ™) ©RH Osborne (2006). No part of the flu-iiQ™ may be copied or reproduced in any form without written permission from the author. Used under license to Swinburne University of Technology.
 
 ## Anonymity
 
