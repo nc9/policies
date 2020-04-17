@@ -24,8 +24,8 @@ This Symptom Tracker collects information for research purposes. Any advice or f
 
 **The Symptom Tracker does not diagnose COVID-19 and it does not provide medical advice. Please seek urgent medical help if you have difficulty breathing. Contact your relevant local health authority or medical practitioner for health advice about COVID-19 and to find out what to do if you think you have symptoms.**
 
-## Flu-iiQ
-Influenza intensity and impact questionnaire (Flu-iiQ)™ ©RH Osborne (2006). No part of the Flu-iiQ™ may be copied or reproduced in any form without written permission from the author. Used under license to Swinburne University of Technology.
+## flu-iiQ™
+Influenza intensity and impact questionnaire (Flu-iiQ™) ©RH Osborne (2006). No part of the flu-iiQ™ may be copied or reproduced in any form without written permission from the author. Used under license to Swinburne University of Technology.
 
 ## Anonymity
 
