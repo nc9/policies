@@ -85,6 +85,15 @@ This project has been approved by or on behalf of Swinburne’s Human Research E
 
 This research project is being undertaken for a period of five years. Your anonymous responses will also be combined with other peoples to help researchers understand pandemics beyond the life of this project.
 
+## Duration of research
+
+This research project is being undertaken for a period of five years, however you may discontinue at any time.
+
+## Who can participate?
+
+Participation in research is open to anyone 18 years older.
+
+
 ## Attachments
 
  * [Swinburne University of Technology Human Research Ethics Committee Approval certificate](https://beatcovid19now.org/documents/ethics-approval.pdf)
