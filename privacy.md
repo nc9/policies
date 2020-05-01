@@ -1,6 +1,6 @@
 ## \#BeatCovid19Now Privacy Policy
 
-Last Updated: 1st May 2020
+Last Updated: 1 May 2020
 
 This policy is available online at [beatcovid19now.org/privacy](https://beatcovid19now.org/privacy)
 
