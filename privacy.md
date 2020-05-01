@@ -85,6 +85,9 @@ This project has been approved by or on behalf of Swinburne’s Human Research E
 
 This research project is being undertaken for a period of five years. Your anonymous responses will also be combined with other peoples to help researchers understand pandemics beyond the life of this project.
 
+## Attachments
+
+1. [Swinburne University of Technology Human Research Ethics Committee Approval certificate](https://beatcovid19now.org/documents/ethics-approval.pdf)
 
 ## Contact
 
