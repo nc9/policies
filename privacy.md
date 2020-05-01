@@ -81,11 +81,9 @@ This website and apps are operated from Australia. If you are located in the Eur
 
 ## Ethics
 
-This project has been approved by or on behalf of Swinburne’s Human Research Ethics Committee (SUHREC) in line with the National Statement on Ethical Conduct in Human Research. If you have any concerns or complaints about the conduct of this project (reference: [20202892-4014](https://beatcovid19now.org/documents/ethics-approval.pdf)), you may contact us at the details below.
+This project has been approved by an independent human research ethics committee at Swinburne University of Technology. The Human Research Ethics Committee (HREC) at is registered with the Australian National Health and Medical Research Council. It operates in accordance with National Statement on Ethical Conduct in Human Research 2007. Approval number [20202892-4014](https://beatcovid19now.org/documents/ethics-approval.pdf).
 
 A copy of the [ethics approval is available to view online](https://beatcovid19now.org/documents/ethics-approval.pdf).
-
-This research project is being undertaken for a period of five years. Your anonymous responses will also be combined with other peoples to help researchers understand pandemics beyond the life of this project.
 
 ## Duration of research
 
