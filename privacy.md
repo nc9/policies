@@ -41,7 +41,7 @@ All data are transferred over encrypted channels and stored on secure servers.
 * We collect your answers to the questions in the Symptom Tracker. This information is collected anonymously. We do not collect information that could personally identify you.
 * When you visit the website or the survey within the app, our servers will log your IP address. Your IP address is not associated with the survey you complete and is purely used for systems administrative purposes — such as blocking denial of service or malware attempts.
 * We run an analytics platform that combines visitor information to report the number of visitors to our survey, which country or region they are visiting from and any website they may have visited from. We use this information to improve our survey.
-* When you start a survey, our website will set a unique identifier for your visit that is not associated with your IP address or any other information. We store this unique identifier so that your multiple responses can be easily matched and you can track your progress over time..
+* When you start a survey, our website will set a unique identifier for your visit that is not associated with your IP address or any other information. We store this unique identifier so that your multiple responses can be easily matched and you can track your progress over time.
 * In the website and apps, you will be asked to provide your location information. We do not collect your exact location, but rather we fuzz this information to your nearest locality — typically a suburb or postcode. We need this geographic information to monitor the spread of symptoms and to provide crucial data to health authorities.
 * To improve the survey, we may track the time you take to fill in the survey or how many questions you completed before leaving the site. Currently the average time of completion is around 3 minutes for first time users and less than 2 minutes for returning users.
 * The duration of the data collection is dependent of the progress of COVID-19, which is unpredictable. The research project itself has a duration of five years and the data will be used for this and future pandemic research.
@@ -93,7 +93,7 @@ This research project is being undertaken for a period of five years, however yo
 
 ## Who can participate?
 
-Participation in research is open to anyone 18 years older.
+Participation in research is open to anyone 18 years and older.
 
 ## Contact
 
