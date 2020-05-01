@@ -4,7 +4,7 @@ Last Updated: 1st May 2020
 
 This policy is available online at [beatcovid19now.org/privacy](https://beatcovid19now.org/privacy)
 
-The privacy and protection of your information is very important to us and we have taken steps to guarantee that your information is handled carefully and kept anomyous. We do not collect any information that could identify you (no personally identifiable information, PII).
+The privacy and protection of your information is very important to us and we have taken steps to guarantee that your information is handled carefully and kept anonymous. We do not collect any information that could identify you (no personally identifiable information, PII).
 
 ## Terms
 
@@ -73,7 +73,7 @@ Subprocessors located in Australia and the United States:
 
 ## Security & Encryption
 
-All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Data aren't encrypted while they are live in our database (since we need to have this ready to send to you when you access the survey of Symptom Tracker), but we go to great lengths to keep your nformation secure as required by the Human Research Ethics Committee at Swinburne University of Technology.
+All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Data aren't encrypted while they are live in our database (since we need to have this ready to send to you when you access the survey of Symptom Tracker), but we go to great lengths to keep your information secure as required by the Human Research Ethics Committee at Swinburne University of Technology.
 
 ## Location of Site and Data
 
@@ -87,7 +87,7 @@ This research project is being undertaken for a period of five years. Your anony
 
 ## Attachments
 
-1. [Swinburne University of Technology Human Research Ethics Committee Approval certificate](https://beatcovid19now.org/documents/ethics-approval.pdf)
+ * [Swinburne University of Technology Human Research Ethics Committee Approval certificate](https://beatcovid19now.org/documents/ethics-approval.pdf)
 
 ## Contact
 
